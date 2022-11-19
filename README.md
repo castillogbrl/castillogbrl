@@ -1,15 +1,12 @@
-<!---- 👋 Hi, I’m @gabriel5ign
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-# Gabriel Castillo
+# Hi there 👋
 
-<img src="https://img.shields.io/badge/-LinkedIn-0e76a8" height="20em" /> <img src="https://img.shields.io/badge/-castillogabriel.cc@gmail.com-0e76a8" height="20em" />
+🛠I'm currently learning web development. <br />
+🎯Working on personal programming projects. <br />
+🌠I'm interested in web development with modern solutions. <br />
 
-I'm interested in web development with modern solutions.
+I'm fond of programming, learning new technologies and tools. Love to meet new people, learn new cultures and the idea of making the world a better place throught development and learning of new techs and tools, striving the path along.
 
-
-
-📫 You can reach me sending an e-mail or throught LinkedIn. 
+---
+<div align="right">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" url="https://www.linkedin.com/in/gabrielcastilllo/"/> <img        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" url="castillogabriel.cc"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" url="https://www.instagram.com/castillo.gbrl/"/>  
+<div />
