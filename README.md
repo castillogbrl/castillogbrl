@@ -4,7 +4,7 @@
 🎯Working on personal programming projects. <br />
 🌠I'm interested in web development with modern solutions. <br />
 
-I'm fond of programming, learning new technologies and tools. Love to meet new people, learn new cultures and the idea of making the world a better place throught development and learning of new techs and tools, striving the path along.
+I'm fond of programming, learning new technologies and tools. Love to meet new people, learn new cultures and the striving of making the world a better place with  software development.
 
 ---
 <div align="right">
