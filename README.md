@@ -8,6 +8,8 @@ I'm fond of programming, learning new technologies and tools. Love to meet new p
 
 ---
 <div align="right">
-  [[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcastilllo/)](https://www.linkedin.com/in/gabrielcastilllo/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:castillogabriel.cc@gmail.com)](mailto:castillogabriel.cc@gmail.com)](https://www.linkedin.com/in/gabrielcastilllo/)https://www.linkedin.com/in/gabrielcastilllo/
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcastilllo/)](https://www.linkedin.com/in/gabrielcastilllo/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:castillogabriel.cc@gmail.com)](mailto:castillogabriel.cc@gmail.com)
+  
 <div />
