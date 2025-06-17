@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi there ![Waving Hand](https://github.com/user-attachments/assets/45407b13-7cb3-4273-9182-439329e283cb)
+
 
 🛠I'm currently learning web development. <br />
 🎯Working on personal programming projects. <br />
