@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there <img src="https://github.com/user-attachments/assets/45407b13-7cb3-4273-9182-439329e283cb" width="32" height="32"/>
+<h1>Hi there <img src="https://github.com/user-attachments/assets/45407b13-7cb3-4273-9182-439329e283cb" width="32" height="32"/></h1>
 </div>
 
 🛠I'm currently learning web development. <br />
